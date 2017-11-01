@@ -52,7 +52,7 @@ If the company is hosting and wish for their submitted talk to be run at their h
 Partners and Hosts should be promoting all codeHarbour events, regardless of where or when they are hosted. This is to ensure the mutual success and growth of the event as we work together.
 #### i. codeHarbour Assets
 codeHarbour will provide assets and promotional material(both physical and digital) to aid in promoting codeHarbour events
-### f. Digital Content and Shutouts
+### f. Digital Content and Shoutouts
 All partners and hosts will have space on our website (www.codeharbour.co.uk) to provide information and links about them.
 codeHarbour will also be displaying sponsor information in our social media presence, along with before, during and after codeHarbour events (where it is best suited).
 Sponsors will also have space on the meetup page, similar to the website space.
