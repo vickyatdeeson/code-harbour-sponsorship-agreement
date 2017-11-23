@@ -28,8 +28,20 @@ Sponsorship is broken down into 2 distinct tiers: Hosts and Partners.
 ### a. Hosts
 Hosts will provide a suitable location for a codeHarbour event, which will be agreed and must comply with the regulations laid out in section 2.c.
 
+#### i. Previous Hosts Recurring Sponsorship
+To establish a wide tech community in Kent, we will be aiming to rotate host locations for each of our monthly core codeHarbour events.
+As such, any previous hosts that would like to continue supporting codeHarbour, but are not currently hosting the following event, will be sponsoring codeHarbour under the Partners tier.
+If a previous Host should wish to host another core event again, they will be the Host for that month.
+
 ### b. Partners
 Partners will help provide funds for food, drink, equipment and other necessities for codeHarbour events and operations to ensure events run smoothly and are enjoyable by all.
+
+### i. Sponsorship frequency
+For regular expenses each month, such as Meetup fees and food/drink for an event, we will be asking Partners to contribute evenly towards the previous month's' regular expenses.
+
+For irregular expenses each month, such as venue hire or equipment hire/purchases, we will be contacting all sponsors with the expected cost. Once we have agreed to the expected cost, we will be asking all Partners to contribute towards this expense before following through with the discussed expense.
+
+All expenses, regardless of frequency, will be made available and public on the meetup page.
 
 ### c. Location Requirements
 Hosts that are providing a location to hold a codeHarbour event must check that the location complies to the following regulations:
@@ -56,6 +68,9 @@ codeHarbour will provide assets and promotional material(both physical and digit
 All partners and hosts will have space on our website (www.codeharbour.co.uk) to provide information and links about them.
 codeHarbour will also be displaying sponsor information in our social media presence, along with before, during and after codeHarbour events (where it is best suited).
 Sponsors will also have space on the meetup page, similar to the website space.
+### g. Continuous Sponsorship
+Unless expressed at the time of sponsorship that your sponsorship will last for an agreed period of time, all sponsorship will roll into the following month, so long as you have adhered to the rules laid out in this document.
+Should you wish to cancel sponsorship going forward, you will need to communicate with one of the codeHarbour organisers.
 ## 3. Sponsorship exit clauses
 **a.** Codeharbour retains the right to exit this agreement if any of the above clauses have been seen to be broken.
 
