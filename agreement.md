@@ -76,8 +76,8 @@ Should you wish to cancel sponsorship going forward, you will need to communicat
 
 I agree on behalf of my company to abide by the rules of this sponsorship agreement
 
-Name:
+Name: Vicky Carmichael
 ______________________________________
 
-Company (if applicable):
+Company (if applicable): Deeson
 _______________________________________
